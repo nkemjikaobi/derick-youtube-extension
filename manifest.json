@@ -1,0 +1,11 @@
+{
+	"manifest_version": 3,
+	"name": "Derick Youtube Extension",
+	"description": "Shows recent Youtube video links from Sky Sports Foorball",
+	"version": "1.0",
+	"action": {
+		"default_icon": "sky-sports.jpeg",
+		"default_popup": "popup.html"
+	},
+	"permissions": []
+}
